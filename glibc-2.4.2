@@ -1,0 +1,73 @@
+sadasd
+
+Package: binutils
+Version: 2.16.1-2
+Section: Optional
+Depends: virtual (<= 2.3), libc6 (<= 5.4), tcpd (<= 2.5), tcpd2 (<= 4.3)
+Description: Configures different programs' locale settings
+ Updates config files of different programs so they use the right
+ language by default.
+ .
+ This package is based on locale-config-skolelinux from the Skolelinux
+ Project (now Debian-Edu Project).which it replaces.
+
+
+Package: virtual
+Version: 2.16.12
+Daepends: binutils (>= 3.4)
+Section: Optional
+Description: aConfigures different programs' locale settings
+ Updates config files of different programs so they use the right
+ language by default.
+ .
+ This package is based on locale-config-skolelinux from the Skolelinux
+ Project (now Debian-Edu Project).which it replaces.
+
+Package: tcpd
+Section: base
+Version: 7.6.dbs-8
+Depends: libc6 (>= 2.3.2.libc), virtual (= 2.3.virt), libc6 (>= 2.3.2.libc), tcpd (= 7.0.tcpd)
+Description: Wietse Venema's TCP wrapper utilities
+ Wietse Venema's network logger, also known as TCPD or LOG_TCP.
+ .
+ These programs log the client host name of incoming telnet,
+ ftp, rsh, rlogin, finger etc. requests. Security options are:
+ access control per host, domain and/or service; detection of
+ host name spoofing or host address spoofing; booby traps to
+ implement an early-warning system.
+
+Packagea: libsc6
+Version: 2
+#2.3.2
+Size: 4930712
+Description: GNU C Library: Shared libraries and Timezone data
+ Contains the standard libraries that are used by nearly all programs on
+ the system. This package includes shared versions of the standard C library
+ and the standard math library, as well as many others.
+ Timezone data is also included.
+
+Package: tcpd3
+Section: base
+Version: 7.6.dbs
+Depends: tcpd (= 4.5), libc6 (>= 2.3.2)
+Description: Wietse Venema's TCP wrapper utilities
+ Wietse Venema's network logger, also known as TCPD or LOG_TCP.
+ .
+ These programs log the client host name of incoming telnet,
+ ftp, rsh, rlogin, finger etc. requests. Security options are:
+
+
+
+Package: tcpd2
+Section: base
+Version: 7.6.dbs
+Depends: libc6 (>= 2.3.2), tcpd3 (<= 3.3)
+Description: Wietse Venema's TCP wrapper utilities
+ Wietse Venema's network logger, also known as TCPD or LOG_TCP.
+ .
+ These programs log the client host name of incoming telnet,
+ ftp, rsh, rlogin, finger etc. requests. Security options are:
+ access control per host, domain and/or service; detection of
+ host name spoofing or host address spoofing; booby traps to
+
+
