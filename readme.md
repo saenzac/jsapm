@@ -27,3 +27,7 @@ Do you want to continue?: (y/n)
 
 [doxygen-shield]: https://img.shields.io/badge/documentation-master-brightgreen.svg
 [doxygen-link]: html/index.html
+
+[Go to this page](@ref html/md_index)
+
+[Go to this page](@ref html/md_index.html)
