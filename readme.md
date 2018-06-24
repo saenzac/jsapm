@@ -23,7 +23,7 @@ Do you want to continue?: (y/n)
 
 [![Documentation][doxygen-shield]][doxygen-link]
 
-[a relative link](another-page.md)
+%[a relative link](another-page.md)
 
 [doxygen-shield]: https://img.shields.io/badge/documentation-master-brightgreen.svg
-[doxygen-link]: http://GoogleCloudPlatform.github.io/google-cloud-cpp/
+[doxygen-link]: html/index.html
