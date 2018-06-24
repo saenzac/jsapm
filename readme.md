@@ -6,7 +6,7 @@ Basically it reads the database which consist in the file "available.txt" and ge
 In it's current state it doesn't perform an actual installation of the packages.
 
 
-# output example
+### output example
 Enter the package name
 python
 Gathering dependencies.........[OK]
@@ -21,6 +21,7 @@ libc6 libdb4.3 libncurses5 python python2.3 zlib1g
 Do you want to continue?: (y/n) 
 
 
+Documentation in doxygen:
 [![Documentation][doxygen-shield]][doxygen-link]
 
 [doxygen-shield]: https://img.shields.io/badge/documentation-master-brightgreen.svg
