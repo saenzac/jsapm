@@ -9,3 +9,6 @@ In it's current state it doesn't perform an actual installation of the packages.
 ### output example
 
 ![output to terminal](https://raw.githubusercontent.com/saenzac/jsapm/master/other/out1.png)
+
+
+<a href="https://cdn.rawgit.com/saenzac/jsapm/b71d2451/html/index.html">Doxygen documentation</a>
