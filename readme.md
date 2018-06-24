@@ -30,4 +30,4 @@ Do you want to continue?: (y/n)
 
 [Go to this page](@ref html/md_index)
 
-[Go to this page](@ref html/md_index.html)
+[Go to this page](@ref html/md_index)
