@@ -27,3 +27,4 @@ Documentation in doxygen:
 [doxygen-shield]: https://img.shields.io/badge/documentation-master-brightgreen.svg
 [doxygen-link]: https://cdn.rawgit.com/saenzac/jsapm/b71d2451/html/index.html
 
+<a href="http://example.com">http://example.com</a>
