@@ -20,11 +20,5 @@ libc6 libdb4.3 libncurses5 python python2.3 zlib1g
 
 Do you want to continue?: (y/n) 
 
-
-Documentation in doxygen:
-[![Documentation][doxygen-shield]][doxygen-link]
-
-[doxygen-shield]: https://img.shields.io/badge/documentation-master-brightgreen.svg
-[doxygen-link]: https://cdn.rawgit.com/saenzac/jsapm/b71d2451/html/index.html
-
-<a href="http://example.com">http://example.com</a>
+Doxygen Documentation:
+<a href="https://cdn.rawgit.com/saenzac/jsapm/b71d2451/html/index.html">Classes</a>
