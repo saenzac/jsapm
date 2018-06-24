@@ -7,18 +7,5 @@ In it's current state it doesn't perform an actual installation of the packages.
 
 
 ### output example
-Enter the package name
-python
-Gathering dependencies.........[OK]
-Verifying conflicts.........[OK]
-Generating candidates.........[OK]
 
-The following packages are going to be installed:
-libc6 libdb4.3 libncurses5 python python2.3 zlib1g 
-
-0 to upgrade, 6 new 
-
-Do you want to continue?: (y/n) 
-
-Doxygen Documentation:
-<a href="https://cdn.rawgit.com/saenzac/jsapm/b71d2451/html/index.html">Classes</a>
+![output to terminal](https://raw.githubusercontent.com/saenzac/jsapm/master/other/out1.png)
